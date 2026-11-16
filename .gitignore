@@ -1,0 +1,13 @@
+# Android build artifacts
+app/build/
+build/
+.gradle/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# Misc
+*.apk
+.DS_Store
